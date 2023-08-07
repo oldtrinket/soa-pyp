@@ -5,3 +5,4 @@ b = "a"
 c = "programmer"
 
 print(a + b + c)
+print("Im","a","programmer",sep=" ")
