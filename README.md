@@ -9,3 +9,5 @@ I will upload everything that we are going to learn in python programming in thi
 29 july 2023 -- uploaded the first python program we did in our class in python.
 
 2 august 2023 -- our python class tonight was mostly theory so not much coding happened.
+
+9 august 2023 -- tonight we have learned the basic of if else statement in our python class and i committed it to repository and named the script ifelselesson.py
