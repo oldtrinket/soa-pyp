@@ -11,3 +11,5 @@ I will upload everything that we are going to learn in python programming in thi
 2 august 2023 -- our python class tonight was mostly theory so not much coding happened.
 
 9 august 2023 -- tonight we have learned the basic of if else statement in our python class and i committed it to repository and named the script ifelselesson.py
+
+12 august 2023 -- i have uploaded my new python codes which are simply basic if-else statements namely highernum.py and highestnum.py.
