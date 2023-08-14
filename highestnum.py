@@ -9,8 +9,8 @@ fnum = int(input('Pick your first number: '))
 snum = int(input('Pick your second number: '))
 tnum = int(input('Pick your third number: '))
 
-highest = fnum
-if snum > highest:
-    highest = snum
-if tnum > highest:
-    highest = tnum
+hnum = fnum
+if snum > hnum:
+    hnum = snum
+if tnum > hnum:
+    hnum = tnum
