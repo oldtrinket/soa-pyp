@@ -8,4 +8,10 @@ def main():
   num2 = random.randint(1, 100)
   num3 = random.randint(1, 100)
 
+ highest_number = find_highest_number(num1, num2, num3)
+  print("The highest number is:", highest_number)
+
+if __name__ == "__main__":
+  main()
+
  
