@@ -1,6 +1,5 @@
 #In this code, I first initialize the variable highest to the value of fnum.
 #Then, I use the if statements to check if snum and tnum are greater than highest. If they are,
-#then I update the value of highest to the new value.
 
 
 print("Pick 3 random numbers between 1 and 100.")
