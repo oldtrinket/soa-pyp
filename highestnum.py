@@ -1,4 +1,4 @@
-#In this code, I first initialize the variable highest to the value of fn
+
 
 
 print("Pick 3 random numbers between 1 and 100.")
