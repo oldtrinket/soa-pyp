@@ -16,4 +16,4 @@ I will upload everything that we are going to learn in python programming in thi
 
 16 august 2023 -- i have uploaded another version of highestnum.py which is highestnum2.py .
 
-23 august 2023 -- 
+23 august 2023 -- we discussed about python list today.
