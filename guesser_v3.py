@@ -1,3 +1,5 @@
+#game now has only 5 attempts to guess the number or game over.
+
 import random
 
 
