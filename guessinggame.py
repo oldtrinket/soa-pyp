@@ -1,4 +1,4 @@
-#Game now prints all the number guesses at the end of the game whether it guesses the number correctly or not..
+#Game now prints all the number guesses at the end of the game whether it guesses the number correctly or not.
 
 import random
 
