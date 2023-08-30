@@ -20,4 +20,4 @@ I will upload everything that we are going to learn in python programming in thi
 
 28 august 2023 -- my teacher is quite happy with my submission of guessinggame.py. he said he is impressed that i used the for loops/else statement combo in my coding. 
 
-30 august 2023 -- we need to edit our guessing game just like what our teacher said.
+30 august 2023 -- we need to edit our guessing game just like what our teacher said. we need to save all the instruction in a text file and the game will use that text file for referencing.
