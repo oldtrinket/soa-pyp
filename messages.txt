@@ -1,0 +1,10 @@
+QUIT_MESSAGE=Quitting the game. The number was {}.
+INVALID_NUMBER_MESSAGE=Please enter a valid number.
+CONGRATS_MESSAGE=Congratulations! You've guessed the correct number.
+GUESSES_HISTORY_MESSAGE=Your guesses were: {}.
+TOO_LOW_MESSAGE=Too low. Try again.
+TOO_HIGH_MESSAGE=Too high. Try again.
+MAX_ATTEMPTS_MESSAGE=Sorry, you've reached the maximum number of attempts. The correct number was {}.
+REPLAY_PROMPT=Do you want to play again? (y/n):
+GOODBYE_MESSAGE=Thanks for playing! Goodbye.
+GUESS_PROMPT=Enter your guess (1-100) or press 'q' to quit [Attempt {}/{}]:
