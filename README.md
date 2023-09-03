@@ -22,4 +22,4 @@ I will upload everything that we are going to learn in python programming in thi
 
 30 august 2023 -- we need to edit our guessing game just like what our teacher said. we need to save all the instructions in a text file and the game will use that text file for referencing. the teacher showed us some example just to give us an idea on how to do it properly.
 
-3 sept 2023 -- i have uploaded two new small programs. 
+3 sept 2023 -- i have uploaded two new small programs which are file_reader.py and guessinggamev5.py. 
