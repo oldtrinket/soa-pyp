@@ -25,3 +25,5 @@ I will upload everything that we are going to learn in python programming in thi
 3 sept 2023 -- i have uploaded two new small programs which are file_reader.py and guessinggamev5.py. 
 
 4 sep 2023 -- i took the knowledge 1 assessment and scored 100%. i also earned a badge.
+
+5 sept 2023 -- my teacher seemed to be happy with my submission of my guessing game v5.
