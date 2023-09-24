@@ -30,4 +30,4 @@ I will upload everything that we are going to learn in python programming in thi
 
 6 sept 2023 -- we have studied function today.
 
-13 sept 2023 -- we discussed lot of topics today in our class mostly about documentation and debugging. my teacher indicated that we are
+13 sept 2023 -- we discussed lot of topics today in our class mostly about documentation and debugging. my teacher indicated that we are going to build a login app written in 
