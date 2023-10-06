@@ -1,0 +1,2 @@
+def is_admin_authenticated(username, password):
+    return username == SYSTEM_ADMIN_USERNAME and password == SYSTEM_ADMIN_PASSWORD
