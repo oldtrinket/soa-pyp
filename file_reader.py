@@ -9,4 +9,5 @@ if user_response == 'yes':
             name, surname, password = line.strip().split()  # Assuming the data in the file is space-separated
             print(f"Net User: {name}.{surname} Password: {password}")
 else:
-    print("Okay, content will not be printed.")
+    print("Okay, content will not be printed
+    .")
