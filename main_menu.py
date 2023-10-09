@@ -28,4 +28,4 @@ def main_menu():
             # Call exit function
             break
         else:
-            print(" ")
+            print("Invalid ")
