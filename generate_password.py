@@ -3,7 +3,7 @@ import string
 
 def generate_password(length=8):
     if length < 6:
-        print("Password length should be at least  ")
+        print("Password length should be at   ")
         return None
     
     charset = string.ascii_letters + string.digits + "!@#$%^"
