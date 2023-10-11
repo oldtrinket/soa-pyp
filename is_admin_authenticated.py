@@ -1,1 +1,1 @@
-def is_admin_authenticated():
+def is_admin_authenticated(username):
