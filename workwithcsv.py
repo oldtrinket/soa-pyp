@@ -50,5 +50,7 @@ with open(new_csv_file_path, 'r') as file:
     updated_records = [row for row in csv_reader]
     for row in updated_records:
         print(row)
+
+
    
 
