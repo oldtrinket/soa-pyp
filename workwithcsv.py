@@ -43,4 +43,6 @@ with open(new_csv_file_path, 'a', newline='') as file:
     csv_writer = csv.writer(file)
     csv_writer.writerow(new_record)
 
+# Step 5: Read and display the updated CSV file
+
 
