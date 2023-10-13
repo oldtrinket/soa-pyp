@@ -46,5 +46,7 @@ with open(new_csv_file_path, 'a', newline='') as file:
 # Step 5: Read and display the updated CSV file
 print("\nStep 5: Updated Records")
 with open(new_csv_file_path, 'r') as file:
-   csv_reader = csv.reader(file) 
+    csv_reader = csv.reader(file)
+    updated_records = [row for row in csv_reader]
+   
 
