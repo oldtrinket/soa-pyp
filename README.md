@@ -32,4 +32,4 @@ I will upload everything that we are going to learn in python programming in thi
 
 13 sept 2023 -- we discussed lot of topics today in our class mostly about documentation and debugging. my teacher indicated that we are going to build a login app written in python.
 it seems like we are going to do it during the holiday. 
-22 oct 2023 -- few weeks are left
+22 oct 2023 -- few weeks are left to complete the small project we are 
