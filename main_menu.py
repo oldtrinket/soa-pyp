@@ -6,7 +6,7 @@ def main_menu():
         print("3. Change Password")
         print("4. Reset Password")
         print("5. View Accounts (Admin Only)")
-        print("6. Exit")
+       
        
 
      
