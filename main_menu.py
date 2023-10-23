@@ -27,5 +27,5 @@ def main_menu():
         elif choice == '6' or choice == 'exit':
             # Call exit function
             break
-        else:
+   
           
