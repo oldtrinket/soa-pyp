@@ -25,7 +25,7 @@ def main_menu():
             # Call view accounts function
             pass
         elif choice == '6' or choice == 'exit':
-            # Call exit function
+           
    
    
           
