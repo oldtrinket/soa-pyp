@@ -20,7 +20,7 @@ def main_menu():
             pass
         elif choice == '4' or choice == 'reset password':
             # Call reset password function
-            pass
+        
        
             
      
