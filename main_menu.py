@@ -23,7 +23,7 @@ def main_menu():
             pass
         elif choice == '5' or choice == 'view accounts':
             # Call view accounts function
-            pass
+     
       
            
    
