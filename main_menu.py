@@ -7,7 +7,7 @@ def main_menu():
         print("4. Reset Password")
         print("5. View Accounts (Admin Only)")
         print("6. Exit")
-        choice = input("\nChoose an option: ").lower()
+       
 
      
         
