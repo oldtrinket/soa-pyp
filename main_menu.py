@@ -13,7 +13,7 @@ def main_menu():
             # Call login function
             pass
         elif choice == '2' or choice == 'register':
-            # Call register function
+           
          
        
          
