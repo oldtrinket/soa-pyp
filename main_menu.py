@@ -9,7 +9,7 @@ def main_menu():
         print("6. Exit")
         choice = input("\nChoose an option: ").lower()
 
-        if choice == '1' or choice == 'login':
+     
         
       
        
