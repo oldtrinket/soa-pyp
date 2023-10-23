@@ -3,7 +3,7 @@ def main_menu():
         print("\n------- GELOS Enterprises -------")
         print("1. Login")
         print("2. Register")
-        print("3. Change Password")
+       
 
       
        
