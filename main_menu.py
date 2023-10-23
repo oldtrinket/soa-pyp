@@ -17,7 +17,7 @@ def main_menu():
             pass
         elif choice == '3' or choice == 'change password':
             # Call change password function
-            pass
+       
       
           
         
