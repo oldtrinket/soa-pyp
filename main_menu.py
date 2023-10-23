@@ -4,7 +4,7 @@ def main_menu():
         print("1. Login")
         print("2. Register")
         print("3. Change Password")
-        print("4. Reset Password")
+
       
        
 
