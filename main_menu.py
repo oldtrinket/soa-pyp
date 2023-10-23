@@ -21,7 +21,7 @@ def main_menu():
         elif choice == '4' or choice == 'reset password':
             # Call reset password function
             pass
-        elif choice == '5' or choice == 'view accounts':
+       
             
      
       
