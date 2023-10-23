@@ -26,6 +26,6 @@ def main_menu():
             pass
         elif choice == '6' or choice == 'exit':
             # Call exit function
-            break
+   
    
           
