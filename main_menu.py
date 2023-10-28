@@ -22,7 +22,7 @@ def validate_password(password):
     return False
 
 
-# when creating a username in firstname.lastname format.
+
 def validate_username(username):
     return re.fullmatch(r"[a-zA-Z]+\.[a-zA-Z]+", username) is not None
 
