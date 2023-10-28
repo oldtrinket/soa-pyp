@@ -21,8 +21,6 @@ def validate_password(password):
         return True
     return False
 
-
-
 def validate_username(username):
     return re.fullmatch(r"[a-zA-Z]+\.[a-zA-Z]+", username) is not None
 
