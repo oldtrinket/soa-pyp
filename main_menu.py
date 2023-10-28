@@ -21,7 +21,7 @@ def validate_password(password):
         return True
     return False
 
-# To make sure that during registration, new user will follow Gelos standards
+
 # when creating a username in firstname.lastname format.
 def validate_username(username):
     return re.fullmatch(r"[a-zA-Z]+\.[a-zA-Z]+", username) is not None
