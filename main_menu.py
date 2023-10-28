@@ -24,8 +24,6 @@ def validate_password(password):
 def validate_username(username):
     return re.fullmatch(r"[a-zA-Z]+\.[a-zA-Z]+", username) is not None
 
-
-
 def generate_password(length=8):
     if length < 8:
         print("Password length should be at least 8 characters.")
