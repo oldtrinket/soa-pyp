@@ -5,15 +5,12 @@ from datetime import datetime
 import time
 
 # Initialize constants and global variables
-
-
-
 SYSTEM_ADMIN_USERNAME = "admin"
 SYSTEM_ADMIN_PASSWORD = "admin@123"
 start_time = datetime.now()
 
 # Validation and Generation Functions
-# I imported re for this function.
+
 def validate_password(password):
     if (
         re.search("[A-Z]", password) and
