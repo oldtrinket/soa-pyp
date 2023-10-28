@@ -1,4 +1,4 @@
-import re       # useful for password validation.
+import re       
 import random   # useful for password generation.
 import string   # useful for password generation as well.
 from datetime import datetime
