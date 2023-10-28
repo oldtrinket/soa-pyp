@@ -1,5 +1,5 @@
 import re       
-import random   # useful for password generation.
+import random   
 import string   # useful for password generation as well.
 from datetime import datetime
 import time
