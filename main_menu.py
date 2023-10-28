@@ -1,6 +1,6 @@
 import re       
 import random   
-import string   # useful for password generation as well.
+import string   
 from datetime import datetime
 import time
 
