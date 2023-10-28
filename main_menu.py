@@ -10,7 +10,6 @@ SYSTEM_ADMIN_PASSWORD = "admin@123"
 start_time = datetime.now()
 
 # Validation and Generation Functions
-
 def validate_password(password):
     if (
         re.search("[A-Z]", password) and
