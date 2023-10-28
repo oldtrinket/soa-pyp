@@ -6,7 +6,7 @@ import time
 
 # Initialize constants and global variables
 
-# I know, I'm aware that this is not the standard practice:)
+
 # Again for simplicity of the program, I put everything here in this file. (variables, functions)
 SYSTEM_ADMIN_USERNAME = "admin"
 SYSTEM_ADMIN_PASSWORD = "admin@123"
