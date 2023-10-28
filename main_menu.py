@@ -5,7 +5,7 @@ from datetime import datetime
 import time
 
 # Initialize constants and global variables
-# To keep it simple, I just hardcoded the ADMIN credentials within the program:)
+
 # I know, I'm aware that this is not the standard practice:)
 # Again for simplicity of the program, I put everything here in this file. (variables, functions)
 SYSTEM_ADMIN_USERNAME = "admin"
