@@ -7,7 +7,7 @@ import time
 # Initialize constants and global variables
 
 
-# Again for simplicity of the program, I put everything here in this file. (variables, functions)
+
 SYSTEM_ADMIN_USERNAME = "admin"
 SYSTEM_ADMIN_PASSWORD = "admin@123"
 start_time = datetime.now()
