@@ -1,3 +1,3 @@
-def save_user(username, password, security_question, 
+def save_user(username, password, 
     
         
