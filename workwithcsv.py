@@ -1,4 +1,4 @@
-import 
+import csv
 
 # Function to clean and capitalize name fields
 def clean_and_capitalize_name(name):
