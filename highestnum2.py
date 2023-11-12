@@ -12,7 +12,7 @@ def main():
   print("The highest number is:", highest_number)
 
 if __name__ == "__main__":
-  ma
+  m
 
 
  
