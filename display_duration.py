@@ -8,4 +8,4 @@ def display_duration():
 # In your main_menu function:
 elif choice == '6' or choice == 'exit':
     display_duration()
-    bre
+    brea
