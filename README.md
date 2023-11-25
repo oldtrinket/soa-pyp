@@ -36,4 +36,4 @@ it seems like we are going to do it during the holiday.
 22 oct 2023 -- few weeks are left to complete the small project we are doing in the class.
 
 5 november 2023 -- almost done with the course. 
-25 november 2023 -- 
+25 november 2023 -- i finished
