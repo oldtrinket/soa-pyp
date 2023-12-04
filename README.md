@@ -37,3 +37,4 @@ it seems like we are going to do it during the holiday.
 
 5 november 2023 -- almost done with the course. 
 25 november 2023 -- i finished the course. 
+4 december 2023  -- the course is officially finished. the testamur and certificate will be sent to me eventually in 21 days.
