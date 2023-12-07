@@ -1,5 +1,5 @@
 # Statement of Attainment
-# Programming in
+# Programming in Python
 
 I will upload everything that we are going to learn in python programming in this repository.  
 
