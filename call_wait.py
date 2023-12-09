@@ -1,4 +1,4 @@
-# get the current time 
+# get the current 
 # then use a while loop to wait 5 seconds 
 # use the while loop to count down each second eg 5 4 3 2 1 0 
 # every second print the following string  
